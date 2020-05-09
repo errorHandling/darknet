@@ -1,5 +1,5 @@
-classes=7
-train=train.txt
-valid=test.txt
+classes=8
+train=/content/drive/My Drive/EAD20/EAD20_od/EAD2020_dataType_framesOnly/yolo/train.txt
+valid=/content/drive/My Drive/EAD20/EAD20_od/EAD2020_dataType_framesOnly/yolo/test.txt
 names=obj.names
 backup=backup/
